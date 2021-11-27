@@ -1,6 +1,6 @@
 ## Interface: 90105
 ## Title: AdiBags - Queen's Conservatory
-## Version: 1.0.0
+## Version: 1.0.1
 ## Author: Crackpot
 ## Notes: AdiBags filter for Night Fae Queen's Conservatory.
 ## X-Category: Bags & Inventory
