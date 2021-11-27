@@ -87,7 +87,7 @@ function conservatoryFilter:Filter(slotData)
         tooltip:SetInventoryItem("player", BankButtonIDToInvSlotID(slotData.slot, nil))
     else
         tooltip:SetBagItem(slotData.bag, slotData.slot)
-    endye
+    end
 
     tooltip:Hide()
 end
