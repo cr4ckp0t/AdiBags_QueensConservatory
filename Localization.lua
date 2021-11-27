@@ -22,6 +22,9 @@ local locale = GetLocale()
 if locale == "deDE" then
     --Translation missing
 elseif locale == "enUS" then
+    L["Queen's Conservatory"] = true
+    L["Filter for Queen's Conservatory (Night Fae Convenant) items."] = true
+
 elseif locale == "esES" then
     --Translation missing
 elseif locale == "esMX" then

@@ -23,8 +23,8 @@ local function tooltipInit()
 end
 
 local conservatoryFilter = AdiBags:RegisterFilter("Conservatory", 98, "ABEvent-1.0")
-conservatoryFilter.uiName = L["Conservatory"]
-conservatoryFilter.uiDesc = L["Filter for Queen's Conservatory (Night Fae) items."]
+conservatoryFilter.uiName = L["Queen's Conservatory"]
+conservatoryFilter.uiDesc = L["Filter for Queen's Conservatory (Night Fae Convenant) items."]
 
 function conservatoryFilter:OnInitialize()
     self.items = {
@@ -76,7 +76,7 @@ end
 
 function conservatoryFilter:Filter(slotData)
     if self.items[tonumber(slotData.itemId)] then
-        return L["Conservatory"]
+        return L["Queen's Conservatory"]
     end
 
     tooltip = tooltip or tooltipInit()
