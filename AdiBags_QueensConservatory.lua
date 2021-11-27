@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------------
--- AdiBags - Queen's Conservatory By Crackpot (US, Arthas)
+-- AdiBags - Queen's Conservatory By Crackpot (US, Illidan)
 -------------------------------------------------------------------------------
 local addonName, addon = ...
 local AdiBags = LibStub("AceAddon-3.0"):GetAddon("AdiBags")
