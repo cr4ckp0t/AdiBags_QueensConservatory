@@ -38,7 +38,9 @@ elseif locale == "koKR" then
 elseif locale == "ptBR" then
     --Translation missing
 elseif locale == "ruRU" then
-    --Translation missing
+    -- Thanks Hubbotu
+    L["Queen's Conservatory"] = true
+    L["Filter for Queen's Conservatory (Night Fae Convenant) items."] = "Фильтр для предметов Queen's Conservatory (Ковенант Ночных Фей)."
 elseif locale == "zhCN" then
     --Translation missing
 elseif locale == "zhTW" then
