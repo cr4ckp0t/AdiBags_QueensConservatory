@@ -50,6 +50,11 @@ function conservatoryFilter:OnInitialize()
         [178883] = true, -- Greater Prideful Spirit
         [178884] = true, -- Divine Prideful Spirit
 
+        -- Legendary Spirits
+        [183704] = true, -- Shifting Spirit of Knowledge
+        [183805] = true, -- Tranquil Spirit of the Cosmos
+        [183806] = true, -- Energetic Spirit of Curiosity
+
         -- Anima Catalysts
         [176921] = true, -- Temporal Leaves
         [176922] = true, -- Wild Nightbloom

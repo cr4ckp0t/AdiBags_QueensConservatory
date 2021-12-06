@@ -30,6 +30,12 @@ AdiBags filter for Night Fae Queen's Conservatory.
 * [Greater Prideful Spirit](https://wowhead.com/item=178883)
 * [Divine Prideful Spirit](https://wowhead.com/item=178884)
 
+### Legendary Spirits
+
+* [Shifting Spirit of Knowledge](https://wowhead.com/item=183704)
+* [Tranquil Spirit of the Cosmos](https://wowhead.com/item=183805)
+* [Energetic Spirit of Curiosity](https://wowhead.com/item=183806)
+
 ### Anima Catalysts
 
 * [Temporal Leaves](https://wowhead.com/item=176921)
