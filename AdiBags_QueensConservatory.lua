@@ -42,7 +42,7 @@ function conservatoryFilter:OnInitialize()
 
         -- Untamed Spirits
         [177698] = true, -- Untamed Spirit
-        [178699] = true, -- Greater Untamed Spirit
+        [177699] = true, -- Greater Untamed Spirit
         [177700] = true, -- Divine Untamed Spirit
 
         -- Prideful Spirit
