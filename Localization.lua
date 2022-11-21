@@ -30,7 +30,8 @@ elseif locale == "esES" then
 elseif locale == "esMX" then
     --Translation missing
 elseif locale == "frFR" then
-    --Translation missing
+    L["Queen's Conservatory"] = "Jardin d'hiver de la reine"
+    L["Filter for Queen's Conservatory (Night Fae Convenant) items."] = "Filtre pour les objets du Jardin de la reine d'hiver (congrégation des Faë nocturnes)."
 elseif locale == "itIT" then
     --Translation missing
 elseif locale == "koKR" then
