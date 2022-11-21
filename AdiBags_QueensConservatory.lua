@@ -84,7 +84,8 @@ function conservatoryFilter:Filter(slotData)
         return L["Queen's Conservatory"]
     end
 
-    tooltip = tooltip or tooltipInit()
+    --tooltip = tooltip or tooltipInit()
+    tooltip = GameTooltip
     tooltip:SetOwner(UIParent, "ANCHOR_NONE")
     tooltip:ClearLines()
 
